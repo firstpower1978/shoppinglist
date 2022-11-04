@@ -35,8 +35,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 家族や友達と買い物リストを共有OK
-    description                           : 共有先にリスト内容の更新がリアルタイムで反映される
+  - title                                 : 家族や友達と共有OK
+    description                           : 共有先にリスト内容の更新がリアルタイムで反映される。バラバラで買い物しても進捗が分かるので、ダブって買うことも無い。
     fontawesome_icon_name                 : magic
     
   - title                                 : 入力自動補完機能でお手軽入力
